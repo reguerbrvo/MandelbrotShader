@@ -11,7 +11,7 @@ Este repositorio contiene el desarrollo de un shader de fragmentos generativo ba
 ## Uso en The Book of Shaders
 
 1. Abre el editor online de The Book of Shaders.
-2. Sustituye el contenido del fragment shader por el de `mandelbrot_shader.glsl` o `mandelbrot_tiny.glsl`.
+2. Sustituye el contenido del fragment shader por el de `mandelbrot_shader.frag` o `mandelbrot_tiny.frag`.
 3. Asegúrate de que existen los uniforms:
    - `u_resolution`
    - `u_mouse`
