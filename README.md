@@ -1,3 +1,5 @@
+## MANDELBROT SET SHADER
+
 IG - Práctica 9: Shader Generativo del Conjunto de Mandelbrot
 
 Este repositorio contiene el desarrollo de un shader de fragmentos generativo basado en el conjunto de Mandelbrot, ejecutable en el editor de **The Book of Shaders**.
