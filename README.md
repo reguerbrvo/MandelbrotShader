@@ -6,7 +6,7 @@ Este repositorio contiene el desarrollo de un shader de fragmentos generativo ba
 
 - `mandelbrot_shader`: versión interactiva del shader, con control de zoom y posición horizontal mediante el ratón.
 - `mandelbrot_tiny`: versión *tiny code* (< 512 bytes), sin interacción, pensada para formatos muy compactos.
-- `Informe_Shader_Mandelbrot.pdf`: informe de la práctica (motivación, desarrollo del shader y referencias).
+- `Informe_Shader_Generativo_del_Conjunto_de_Mandelbrot.pdf`: informe de la práctica (motivación, desarrollo del shader y referencias).
 
 ## Uso en The Book of Shaders
 
